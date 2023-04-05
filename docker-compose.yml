@@ -1,8 +1,0 @@
-version: '3.4'
-
-services:
-  nimitbhagat:
-    image: nimitbhagat
-    build:
-      context: .
-      dockerfile: ./Dockerfile
