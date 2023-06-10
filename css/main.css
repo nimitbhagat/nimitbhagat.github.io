@@ -2,6 +2,7 @@
 @import 'font-awesome.css';
 @import "https://fonts.googleapis.com/css?family=Oswald:300,400,700";
 @import "https://fonts.googleapis.com/css?family=PT+Sans:400,700,400italic,700italic&amp;subset=latin,latin-ext,cyrillic";
+
 html {
     height: 100%
 }
@@ -290,21 +291,25 @@ textarea.form-control:focus {
 }
 
 @-webkit-keyframes bounce {
+
     0%,
     100% {
         -webkit-transform: scale(0)
     }
+
     50% {
         -webkit-transform: scale(1)
     }
 }
 
 @keyframes bounce {
+
     0%,
     100% {
         transform: scale(0);
         -webkit-transform: scale(0)
     }
+
     50% {
         transform: scale(1);
         -webkit-transform: scale(1)
@@ -1745,6 +1750,7 @@ blockquote {
     .portfolio-grid figure {
         width: 33.33333%
     }
+
     .blog-masonry .item {
         width: 50%
     }
@@ -1755,6 +1761,7 @@ blockquote {
         display: block;
         visibility: visible
     }
+
     .header {
         position: fixed;
         width: 100%;
@@ -1763,10 +1770,12 @@ blockquote {
         background-color: #fff;
         z-index: 100
     }
+
     .site-title-block {
         margin: 0 20px;
         text-align: left
     }
+
     .site-title-block .site-title {
         display: inline-block;
         float: left;
@@ -1774,18 +1783,23 @@ blockquote {
         margin: 0;
         line-height: 50px
     }
+
     .site-title-block .site-description {
         display: none
     }
+
     .subpage-block {
         margin-bottom: 40px
     }
+
     .my-photo {
         display: none
     }
+
     .my-photo img {
         display: none
     }
+
     .my-photo-small {
         display: block;
         width: 200px;
@@ -1793,12 +1807,14 @@ blockquote {
         border-radius: 50%;
         margin: 0 auto 40px
     }
+
     .my-photo-small img {
         display: block;
         width: 100%;
         height: auto;
         border-radius: 50%
     }
+
     .site-main {
         position: absolute;
         top: 50px;
@@ -1811,33 +1827,41 @@ blockquote {
         -moz-box-shadow: none;
         box-shadow: none
     }
+
     .site-main-menu {
         text-align: center
     }
+
     .section-title-block {
         margin-left: 0;
         margin-right: 0
     }
+
     .section-title {
         display: inline-block;
         position: relative;
         margin-left: -20px;
         padding-left: 20px
     }
+
     .section-title:after {
         display: none
     }
+
     .section-title-block .section-description {
         display: none
     }
+
     .site-title {
         color: #222;
         text-shadow: none
     }
+
     p.site-description {
         color: #888;
         text-shadow: none
     }
+
     .pt-wrapper {
         padding: 0;
         margin: 0;
@@ -1845,9 +1869,11 @@ blockquote {
         -moz-box-sizing: border-box;
         box-sizing: border-box
     }
+
     .pt-page {
         padding: 15px 20px 60px
     }
+
     .site-nav {
         display: block;
         width: 100%;
@@ -1868,26 +1894,32 @@ blockquote {
         -ms-transition: all .66s ease-in-out;
         transition: all .66s ease-in-out
     }
+
     .site-nav .site-main-menu {
         display: block
     }
+
     ul.social-links {
         display: block;
         text-align: center;
         float: none;
         margin: 15px 0
     }
+
     ul.social-links li {
         float: none;
         display: inline-block
     }
+
     .mobile-menu-hide {
         margin-top: -100%
     }
+
     .site-main-menu li {
         display: block;
         padding: 10px 0
     }
+
     .blog-post-content {
         margin: 0;
         padding-left: 20px;
