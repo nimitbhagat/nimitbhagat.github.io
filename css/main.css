@@ -1948,3 +1948,32 @@ blockquote {
 .g-recaptcha {
     margin-bottom: 20px
 }
+
+/* Custom Css */
+
+.custom-scroll {
+    overflow-y: auto;
+    height: 100vh;
+}
+
+/* ===== Scrollbar CSS ===== */
+  /* Firefox */
+  * {
+    scrollbar-width: 2px;
+    scrollbar-color: #828282 #ffffff;
+  }
+
+  /* Chrome, Edge, and Safari */
+  *::-webkit-scrollbar {
+    width: 2px;
+  }
+
+  *::-webkit-scrollbar-track {
+    background: #ffffff;
+  }
+
+  *::-webkit-scrollbar-thumb {
+    background-color: #828282;
+    border-radius: 50px;
+    border: 0px none #828282;
+  }
