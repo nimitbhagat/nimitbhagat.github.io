@@ -1,9 +1,15 @@
-# Allow all search engine robots
 User-agent: *
-Disallow: /admin/
-Disallow: /cgi-bin/
-Disallow: /private/
-Disallow: /tmp/
+Allow: /
 
-# Optionally, specify a sitemap
-Sitemap: https://nimitbhagat.in/sitemap.xml
+# Sitemap
+Sitemap: https://nimitbhagat.com/sitemap.xml
+
+# Disallow crawling of admin or private directories (if any)
+Disallow: /admin/
+Disallow: /private/
+Disallow: /*.pdf$
+
+# Allow crawling of CSS and JS files for better rendering
+Allow: /css/
+Allow: /js/
+Allow: /images/
