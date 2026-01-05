@@ -1,0 +1,24 @@
+# 💫 Nimit Bhagat - Code Architect & Digital Craftsman
+
+## 🚀 What I Do
+Backend wizard at Radix Web Software, architecting the OnPrintShop universe. I turn coffee into scalable systems and debug nightmares into elegant solutions.
+
+## ⚡ Arsenal
+- **Backend Mastery**: PHP, Laravel (my weapon of choice)
+- **Frontend Magic**: JavaScript, Vue.js, TypeScript
+- **Data Wrangling**: MySQL, SQLite, Oracle
+- **DevOps Toolkit**: Docker, Apache
+- **Modern Stack**: GraphQL, Socket.io, Firebase
+- **Design Touch**: Photoshop, Canva
+
+## 🌐 Find Me Online
+- 🐙 GitHub: @nimitbhagat (where the magic happens)
+- 💼 LinkedIn: nimit-bhagat
+- 🐦 Twitter: @nimit_bhagat
+- 📺 YouTube: @nimitbhagat
+
+## 🎯 Beyond Code
+When not wrestling with APIs: 🎵 music enthusiast, 🎮 gaming strategist, 🎬 movie critic, 📚 tech news junkie. Believer in work-life harmony and continuous learning.
+
+## 💬 Let's Build Something Amazing
+Got an interesting project? Need a backend problem solver? Let's connect and create digital magic together!
