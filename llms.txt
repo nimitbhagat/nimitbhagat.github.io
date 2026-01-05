@@ -11,6 +11,19 @@ Backend wizard at Radix Web Software, architecting the OnPrintShop universe. I t
 - **Modern Stack**: GraphQL, Socket.io, Firebase
 - **Design Touch**: Photoshop, Canva
 
+## 🤖 Machine-Readable Skills
+```json
+{
+  "languages": ["PHP", "JavaScript", "TypeScript", "HTML5", "CSS3", "Shell"],
+  "frameworks": ["Laravel", "Vue.js", "Bootstrap"],
+  "databases": ["MySQL", "SQLite", "Oracle"],
+  "tools": ["Docker", "Apache", "Postman", "Jira", "NPM"],
+  "technologies": ["GraphQL", "Socket.io", "Firebase", "Chart.js", "jQuery"],
+  "design": ["Photoshop", "Canva"],
+  "specialties": ["Backend Development", "API Design", "Database Architecture", "System Scaling"]
+}
+```
+
 ## 🌐 Find Me Online
 - 🐙 GitHub: @nimitbhagat (where the magic happens)
 - 💼 LinkedIn: nimit-bhagat
